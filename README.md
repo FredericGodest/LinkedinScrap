@@ -3,6 +3,7 @@ Webscrap your LinkedIn network with Selenium and Python and extract a .CSV file 
 
 ## Installation
 pip install selenium
+
 pip install pandas
 
 ## How does it work ?
